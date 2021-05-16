@@ -1,0 +1,1 @@
+# A dogecoin core node docker container
